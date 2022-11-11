@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mina809new">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ZK/mina809new.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

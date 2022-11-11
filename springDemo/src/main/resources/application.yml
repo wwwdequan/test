@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    dynamic:
+      p6spy: true
+      datasource:
+        master:
+          username: law_enforcement
+          password: supconit
+          url: jdbc:mysql://172.16.13.221:32706/law_enforcement?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+          #   url: jdbc:mysql://172.17.1.58:32706/law_enforcement?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+          #          url: jdbc:mysql://183.129.145.3:3306/baseinfo?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+          driver-class-name: com.mysql.cj.jdbc.Driver
