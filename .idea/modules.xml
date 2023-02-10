@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/springDemo/springDemo.iml" filepath="$PROJECT_DIR$/springDemo/springDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test01/test01.iml" filepath="$PROJECT_DIR$/test01/test01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test02/test02.iml" filepath="$PROJECT_DIR$/test02/test02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test03/test03/test03.iml" filepath="$PROJECT_DIR$/test03/test03/test03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test02/src/main/main.iml" filepath="$PROJECT_DIR$/test02/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springDemo/src/main/main1.iml" filepath="$PROJECT_DIR$/springDemo/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test02/src/test/test1.iml" filepath="$PROJECT_DIR$/test02/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springDemo/src/test/test2.iml" filepath="$PROJECT_DIR$/springDemo/src/test/test2.iml" />
     </modules>
   </component>
 </project>
