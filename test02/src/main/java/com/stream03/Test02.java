@@ -1,6 +1,7 @@
 package com.stream03;
 
 import java.io.FileNotFoundException;
+import java.util.UUID;
 
 /**
  * @author wangdequan
@@ -46,6 +47,11 @@ public class Test02 {
 //		List<String> list = Arrays.asList("aa", "ff", "dd");
 //		list.stream().sorted().forEach(System.out::println);
 
+        for (int i = 1; i <= 10; i++) {
+            String s = UUID.randomUUID().toString().replace("-","");
+
+            System.out.println(i + "=" + s);
+        }
 
     }
 
